@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+.title {
+    margin : 50px 50px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 70px;
+}
+
+.card{
+    width: 18rem;
+}
+
+h2{
+    font-family: 'Indie Flower', cursive;
+}
